@@ -8,4 +8,4 @@ Es un programa con adaptabilidad de cambios en el futuro.
 
 Creado por Alvaro Zambrano.
 
-2024
+©2024
